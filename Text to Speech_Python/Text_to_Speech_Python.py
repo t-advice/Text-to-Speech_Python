@@ -1,5 +1,5 @@
-import pyttsx3
-
+import  pyttsx3_speak as pyttsx3
+pip install pyttsx3
 engine = pyttsx3.init()
 
 text_to_speech = "Hello World, the automation system is ready."
